@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Khalid Mehmood</h1>
 
-Hi, I’m **Khalid Mehmood**, a Computer Science student at **UET Peshawar**. I'm passionate about **App Development** and have experience with **C++, Flutter, Java,** and **DSA (Data Structures and Algorithms)**. Currently, I'm exploring the world of **full-stack development** with **php, Laravel, and MySQL**.
-
-I’m looking to collaborate on innovative projects related to app development and full-stack technologies.
+"Hi, I'm Khalid Mehmood, a Computer Science student fueled by a passion for app development. I'm proficient in C++, Java, MySQL, and DSA, and I'm currently diving deep into the world of advanced app development. If you're looking for a collaborator to build something amazing, let's connect!"
 
 ---
 
