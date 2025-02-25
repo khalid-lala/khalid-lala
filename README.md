@@ -1,30 +1,19 @@
-<h1 align="center">Hi 👋, I'm Waqas Khan</h1>
+<h1 align="center">Hi 👋, I'm Khalid Mehmood</h1>
 
-Hi, I’m **Waqas Khan**, a third-semester Computer Science student pursuing my Bachelor's degree at **UET Peshawar**, with a focus on **Full-Stack Web Development**. Over the past year, I have developed skills in **HTML5, CSS3, Bootstrap 5, Tailwind CSS, JavaScript Vue.js**, and **React.js**. Currently, I’m expanding my backend knowledge with **php , Laravel**, and **MySQL**, working towards becoming a full-stack developer.
+Hi, I’m **Khalid Mehmood**, a Computer Science student at **UET Peshawar**. I'm passionate about **App Development** and have experience with **C++, Flutter, Java,** and **DSA (Data Structures and Algorithms)**. Currently, I'm exploring the world of **full-stack development** with **php, Laravel, and MySQL**.
 
-I’m looking to collaborate on innovative projects in the web development and tech industry.
-
+I’m looking to collaborate on innovative projects related to app development and full-stack technologies.
 
 ---
-
 
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img width="10" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="8" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img width="8" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
-  <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="8" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img width="8" />
@@ -41,13 +30,13 @@ I’m looking to collaborate on innovative projects in the web development and t
 ## 📞 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/waqas-khan-a68602343/" target="_blank" >
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Waqas-Khan-CodeCanvas" target="_blank">
+  <a href="https://github.com/YOUR_GITHUB_PROFILE" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="waqaskhan11411704@gmail.com" target="_blank">
+  <a href="YOUR_EMAIL@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email"  />
   </a>
 </p>
@@ -57,7 +46,7 @@ I’m looking to collaborate on innovative projects in the web development and t
 ## Profile Views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Waqas-Khan&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue" alt="Profile Views" />
 </p>
 
 <picture>
