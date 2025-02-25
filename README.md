@@ -1,7 +1,6 @@
+<h1 align="center">Hello 👋, I'm **Khalid Mehmood**</h1>
 
-<h1 align="center">**Hello 👋, I'm Khalid Mehmood**</h1>
-
-a third-semester Computer Science student pursuing my Bachelor's degree at **UET Peshawar**, with a focus on **App Development**. Over the past year, I have developed skills in **C++, Java, python, MySQL** and **DSA (Data Structures and Algorithms)**. 
+Currently navigating the exciting world of Computer Science at UET Peshawar, I'm a 3rd semester student on a mission to learn and create. Join me as I explore the cutting-edge of tech, with a focus on **App Development**. Over the past year, I have developed skills in **C++, Java, Dart, Kotlin, Python, MySQL** and **DSA (Data Structures and Algorithms)**. 
 Currently, I’m expanding my knowledge with **Flutter** and working towards becoming a **Flutter App Developer**.
 
 I’m looking to collaborate on innovative projects in the **App Development** and **tech industry**.
