@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, I'm Khalid Mehmood </h1>
 
-Currently navigating the exciting world of Computer Science at UET Peshawar, I'm a 3rd semester student on a mission to learn and create. Join me as I explore the cutting-edge of tech, with a focus on **App Development**. Over the past year, I have developed skills in **C++, Java, Dart, Kotlin, Python, MySQL** and **DSA (Data Structures and Algorithms)**. 
+Currently navigating the exciting world of Computer Science at UET Peshawar, I'm a 3rd semester student on a mission to learn and create. 
+Join me as I explore the cutting-edge of tech, with a focus on **App Development**. Over the past year, I have developed skills in **C++, Java, Dart, Kotlin, Python, MySQL** and **DSA (Data Structures and Algorithms)**. 
 Currently, I’m expanding my knowledge with **Flutter** and working towards becoming a **Flutter App Developer**.
 
 I’m looking to collaborate on innovative projects in the **App Development** and **tech industry**.
@@ -33,10 +34,10 @@ I’m looking to collaborate on innovative projects in the **App Development** a
   <a href="https://www.linkedin.com/mynetwork/?skipRedirect=true" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_PROFILE" target="_blank">
+  <a href="https://github.com/khalid-lala" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="YOUR_EMAIL@example.com" target="_blank">
+  <a href="seo.khalidmehmood@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email"  />
   </a>
 </p>
