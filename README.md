@@ -1,7 +1,9 @@
 
-"Hi, I'm Khalid Mehmood, a Computer Science student fueled by a passion for app development. I'm proficient in C++, Java, MySQL, and DSA, and I'm currently diving deep into the world of advanced app development. If you're looking for a collaborator to build something amazing, let's connect!"
+<h1 align="center">Hi 👋, I'm Khalid Mehmood</h1>
 
----
+Hi, I’m **Khalid Mehmood**, a third-semester Computer Science student pursuing my Bachelor's degree at **UET Peshawar**, with a focus on **App Development**. Over the past year, I have developed skills in **C++, Java, MySQL**, and **DSA (Data Structures and Algorithms)**. Currently, I’m expanding my knowledge with **Flutter** and working towards becoming a **Flutter App Developer**.
+
+I’m looking to collaborate on innovative projects in the **App Development** and **tech industry**.
 
 ## 🛠️ Languages and Tools
 
