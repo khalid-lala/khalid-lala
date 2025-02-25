@@ -1,7 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Khalid Mehmood</h1>
+<h1 align="center">**Hello 👋, I'm Khalid Mehmood**</h1>
 
-Hi, I’m **Khalid Mehmood**, a third-semester Computer Science student pursuing my Bachelor's degree at **UET Peshawar**, with a focus on **App Development**. Over the past year, I have developed skills in **C++, Java, MySQL**, and **DSA (Data Structures and Algorithms)**. Currently, I’m expanding my knowledge with **Flutter** and working towards becoming a **Flutter App Developer**.
+a third-semester Computer Science student pursuing my Bachelor's degree at **UET Peshawar**, with a focus on **App Development**. Over the past year, I have developed skills in **C++, Java, python, MySQL** and **DSA (Data Structures and Algorithms)**. 
+Currently, I’m expanding my knowledge with **Flutter** and working towards becoming a **Flutter App Developer**.
 
 I’m looking to collaborate on innovative projects in the **App Development** and **tech industry**.
 
@@ -14,14 +15,13 @@ I’m looking to collaborate on innovative projects in the **App Development** a
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img width="8" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/>
-  <img width="8" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img width="8" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img width="8" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="DSA" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
 </p>
 
 ---
